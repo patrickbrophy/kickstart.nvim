@@ -3,6 +3,6 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  require 'custom.plugins.avante',
   require 'custom.plugins.leap',
+  require 'custom.plugins.opencode',
 }
